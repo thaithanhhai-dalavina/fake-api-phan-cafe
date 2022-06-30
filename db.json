@@ -1,0 +1,181 @@
+{
+	"categories": [
+		{
+			"category_id": "L01",
+			"category_name": "Coffee",
+			"category_img": "" 
+		},
+		{
+			"category_id": "L02",
+			"category_name": "Trà",
+			"category_img": "" 
+		},
+		{
+			"category_id": "L03",
+			"category_name": "Mojito",
+			"category_img": "" 
+		},
+		{
+			"category_id": "L04",
+			"category_name": "Cold Brew",
+			"category_img": "" 
+		},
+		{
+			"category_id": "L05",
+			"category_name": "Hạt cafe",
+			"category_img": "" 
+		}
+	],
+    "products": [
+        {
+            "product_id": "SP01",
+            "category_id": "L01",
+            "product_name": "Espresso",
+            "product_desc": "Espresso, là một phương pháp rang và pha chế cà phê có nguồn gốc từ Ý, trong đó một lượng nhỏ nước sôi gần như bị đè nén dưới áp lực qua hạt cà phê nghiền",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img": [
+                "https://i.imgur.com/FXIneUG.png"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP02",
+            "category_id": "L01",
+            "product_name": "Cafe đá",
+            "product_desc": "Cà phê đá là một loại cà phê đồ uống được phục vụ lạnh. Nó có thể được chuẩn bị bằng cách pha cà phê bình thường và sau đó phục vụ nó trên đá hoặc trong sữa lạnh, hoặc bằng cách pha cà phê lạnh",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img":[
+                "https://i.imgur.com/SSTcobn.png",
+                "https://i.imgur.com/MwyZ0F3.jpg",
+                "https://i.imgur.com/pAoxv2m.jpg"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP03",
+            "category_id": "L01",
+            "product_name": "Cafe sữa",
+            "product_desc": "Cà phê sữa đá là một loại thức uống thông dụng ở Việt Nam. Cà phê sữa đá truyền thống được làm từ cà phê nguyên chất đựng trong phin với sữa đặc có đường và bỏ đá vào trong một cái ly bằng thủy tinh rồi thưởng thức",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img":[
+                "https://i.imgur.com/ISoKbRY.png",
+                "https://i.imgur.com/WI69l1K.jpg",
+                "https://i.imgur.com/mjnkTaq.jpg"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP04",
+            "category_id": "L02",
+            "product_name": "Trà đào",
+            "product_desc": "Trà đào là thức uống giải khát ưa thích của giới trẻ, đặc biệt là trong mùa hè. Món trà đào đào đúng chuẩn là thức uống giải nóng và thanh nhiệt cực hiệu quả và nhanh chóng mang đến cho bạn cảm giác mát lạnh và sảng khoái.",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img":[
+                "https://i.imgur.com/unWTdZ1.png",
+                "https://i.imgur.com/1klYPYU.png"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP05",
+            "category_id": "L02",
+            "product_name": "Trà đào cam sả",
+            "product_desc": "Trà đào cam sả có vị thanh ngọt của đào, vị chua dịu của những tép cam căng mọng, vị chát của trà, cùng hương thơm nồng đặc trưng của sả. Trà đào cam sả là đồ uống không còn xa lạ gì với chúng ta khi đó là một trong những sự lựa chọn tuyệt vời mát lạnh cho ngày hè nóng nực",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img":[
+                "https://i.imgur.com/AQGktDT.png"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP06",
+            "category_id": "L03",
+            "product_name": "Mojito việt quất",
+            "product_desc": "Mojito việt quất (Blueberry Mojito) là sự kết hợp hoàn hảo giữa vị chua của chanh, vị ngọt của việt quất, mùi thơm của lá bạc hà và chút cay nồng của soda hoặc rượu Rhum tạo nên một loại cocktail phổ biến vào mùa hè. Bạn dễ dàng tìm thấy loại thức uống này không chỉ ở bar, pub mà còn ở những quán cà phê, trà sữa",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img":[
+                "https://i.imgur.com/DwgLrAV.png",
+                "https://i.imgur.com/hdi64kU.jpg"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP07",
+            "category_id": "L03",
+            "product_name": "Mojito phúc bồn tử",
+            "product_desc": "Mojito phúc bồn tử có vị ngọt ngọt, chua chua, màu sắc thì rất bắt mắt. Đây chắc hẳn là một thức uống giải nhiệt cực hiệu quả trong những ngày nắng nóng. Bạn còn chần chờ gì nữa mà không thử ngay để thưởng thức cùng gia đình, chỉ tốn ít thời gian là có ly mojito ngon miệng rồi",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img": [
+                "https://i.imgur.com/uKMD86g.png",
+                "https://i.imgur.com/DkHFHdi.png"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP08",
+            "category_id": "L04",
+            "product_name": "Cold brew",
+            "product_desc": "Bằng cách nghiền mịn cafe hạt, cho bột cafe vào một bình chứa và đổ nước lạnh vào bình cho đến khi toàn bộ cafe được ngâm ủ trọn vẹn trong nước. Kết quả sau vài ngày sẽ thu được một lượng cafe cô đặc cao, hương vị độc đáo",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img":[
+                "https://i.imgur.com/LPrAn4g.png"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP08",
+            "category_id": "L04",
+            "product_name": "Cold brew vị trái cây",
+            "product_desc": "Vị của coldbrew và nước ép trái cây cũng như vậy. Cảm giác khoan khoái và dễ chịu sẽ lập tức hiện ra khi chúng ta trải nghiệm coldbrew và nước ép trái cây.  Uống nước ép mang hương vị trái cây cùng những vitamin và khoáng chất tốt kết hợp với thể chất và vị ngọt ngào của coldbrew sẽ làm cho những mệt mỏi và lo âu sau một ngày vất vả sẽ biến mất hoàn toàn",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img":[
+                "https://i.imgur.com/FXIneUG.png"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash":"0"
+        },
+        {
+            "product_id": "SP09",
+            "category_id": "L01",
+            "product_name": "Cà phê 01",
+            "product_desc": "Vị của coldbrew và nước ép trái cây cũng như vậy. Cảm giác khoan khoái và dễ chịu sẽ lập tức hiện ra khi chúng ta trải nghiệm coldbrew và nước ép trái cây.  Uống nước ép mang hương vị trái cây cùng những vitamin và khoáng chất tốt kết hợp với thể chất và vị ngọt ngào của coldbrew sẽ làm cho những mệt mỏi và lo âu sau một ngày vất vả sẽ biến mất hoàn toàn",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img":[
+                "https://i.imgur.com/zE5ksti.png"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash":"0"
+        },
+        {
+            "product_id": "SP10",
+            "category_id": "L01",
+            "product_name": "Cà phê 02",
+            "product_desc": "Vị của coldbrew và nước ép trái cây cũng như vậy. Cảm giác khoan khoái và dễ chịu sẽ lập tức hiện ra khi chúng ta trải nghiệm coldbrew và nước ép trái cây.  Uống nước ép mang hương vị trái cây cùng những vitamin và khoáng chất tốt kết hợp với thể chất và vị ngọt ngào của coldbrew sẽ làm cho những mệt mỏi và lo âu sau một ngày vất vả sẽ biến mất hoàn toàn",
+            "product_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "product_img":[
+                "https://i.imgur.com/m9oCUhc.png"
+            ],
+            "product_createdAt":"",
+            "product_updatedAt":"",
+            "product_isTrash":"0"
+        }
+    ]
+}
