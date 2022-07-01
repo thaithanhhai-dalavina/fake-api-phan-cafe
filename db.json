@@ -37,7 +37,7 @@
                 "https://i.imgur.com/FXIneUG.png"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
+            "product_famous": false,
             "product_isTrash": false
         },
         {
@@ -52,7 +52,7 @@
                 "https://i.imgur.com/pAoxv2m.jpg"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
+            "product_famous": false,
             "product_isTrash": false
         },
         {
@@ -67,7 +67,7 @@
                 "https://i.imgur.com/mjnkTaq.jpg"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
+            "product_famous": false,
             "product_isTrash": false
         },
         {
@@ -81,7 +81,7 @@
                 "https://i.imgur.com/1klYPYU.png"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
+            "product_famous": false,
             "product_isTrash": false
         },
         {
@@ -94,7 +94,7 @@
                 "https://i.imgur.com/AQGktDT.png"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
+            "product_famous": true,
             "product_isTrash": false
         },
         {
@@ -108,7 +108,7 @@
                 "https://i.imgur.com/hdi64kU.jpg"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
+            "product_famous": true,
             "product_isTrash": false
         },
         {
@@ -122,7 +122,7 @@
                 "https://i.imgur.com/DkHFHdi.png"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
+            "product_famous": false,
             "product_isTrash": false
         },
         {
@@ -135,7 +135,7 @@
                 "https://i.imgur.com/LPrAn4g.png"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
+            "product_famous": false,
             "product_isTrash": false
         },
         {
@@ -148,8 +148,8 @@
                 "https://i.imgur.com/FXIneUG.png"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
-            "product_isTrash":"0"
+            "product_famous": false,
+            "product_isTrash": false
         },
         {
             "product_id": "SP09",
@@ -161,8 +161,8 @@
                 "https://i.imgur.com/zE5ksti.png"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
-            "product_isTrash":"0"
+            "product_famous": false,
+            "product_isTrash": false
         },
         {
             "product_id": "SP10",
@@ -174,8 +174,61 @@
                 "https://i.imgur.com/m9oCUhc.png"
             ],
             "product_createdAt":"",
-            "product_updatedAt":"",
-            "product_isTrash":"0"
+            "product_famous": false,
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP11",
+            "category_id": "L01",
+            "product_name": "Hạt Cafe 01",
+            "product_desc": "Vị của coldbrew và nước ép trái cây cũng như vậy. Cảm giác khoan khoái và dễ chịu sẽ lập tức hiện ra khi chúng ta trải nghiệm coldbrew và nước ép trái cây.  Uống nước ép mang hương vị trái cây cùng những vitamin và khoáng chất tốt kết hợp với thể chất và vị ngọt ngào của coldbrew sẽ làm cho những mệt mỏi và lo âu sau một ngày vất vả sẽ biến mất hoàn toàn",
+            "product_attr":[{"price": 200.000, "size": "M"}],
+            "product_img":[
+                "https://i.imgur.com/mZZ8a6w.png"
+            ],
+            "product_createdAt":"",
+            "product_famous": true,
+            "product_isTrash": false
+        },
+        {
+            "product_id": "SP12",
+            "category_id": "L01",
+            "product_name": "Hạt Cafe 02",
+            "product_desc": "Vị của coldbrew và nước ép trái cây cũng như vậy. Cảm giác khoan khoái và dễ chịu sẽ lập tức hiện ra khi chúng ta trải nghiệm coldbrew và nước ép trái cây.  Uống nước ép mang hương vị trái cây cùng những vitamin và khoáng chất tốt kết hợp với thể chất và vị ngọt ngào của coldbrew sẽ làm cho những mệt mỏi và lo âu sau một ngày vất vả sẽ biến mất hoàn toàn",
+            "product_attr":[{"price": 200.000, "size": "M"}],
+            "product_img":[
+                "https://i.imgur.com/H66nliD.png"
+            ],
+            "product_createdAt":"",
+            "product_famous": false,
+            "product_isTrash": false
+        }
+    ],
+    "featured": [
+        {
+            "favourite_id": "F01",
+            "product_id": "SP05",
+            "favourite_name": "Trà đào cam sả",
+            "favourite_desc": "",
+            "favourite_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "favourite_img": [
+                "https://i.imgur.com/FXIneUG.png"
+            ],
+            "favourite_quantity": 200,
+            "favourite_isTrash": false
+        },
+        {
+            "favourite_id": "F02",
+            "product_id": "SP06",
+            "favourite_name": "Mojito việt quất",
+            "favourite_desc": "",
+            "favourite_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+            "favourite_img":[
+                "https://i.imgur.com/DwgLrAV.png",
+                "https://i.imgur.com/hdi64kU.jpg"
+            ],
+            "favourite_quantity": 500,
+            "favourite_isTrash": false
         }
     ]
-}
+}   

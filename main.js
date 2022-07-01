@@ -59,9 +59,10 @@ server.use(
     "/api/*": "/$1",
     "/:resource/:product_id/show": "/:resource/:product_id",
     "/products/:product_id": "/products?product_id=:product_id",
-    "/articles\\?product_id=:product_id": "/products/:product_id",
+    "/products\\?category_id=:category_id": "/products/:category_id",
   })
 );
+
 server.use(router);
 
 // Start server
