@@ -179,7 +179,7 @@
         },
         {
             "product_id": "SP11",
-            "category_id": "L01",
+            "category_id": "L05",
             "product_name": "Hạt Cafe 01",
             "product_desc": "Vị của coldbrew và nước ép trái cây cũng như vậy. Cảm giác khoan khoái và dễ chịu sẽ lập tức hiện ra khi chúng ta trải nghiệm coldbrew và nước ép trái cây.  Uống nước ép mang hương vị trái cây cùng những vitamin và khoáng chất tốt kết hợp với thể chất và vị ngọt ngào của coldbrew sẽ làm cho những mệt mỏi và lo âu sau một ngày vất vả sẽ biến mất hoàn toàn",
             "product_attr":[{"price": 200.000, "size": "M"}],
@@ -192,7 +192,7 @@
         },
         {
             "product_id": "SP12",
-            "category_id": "L01",
+            "category_id": "L05",
             "product_name": "Hạt Cafe 02",
             "product_desc": "Vị của coldbrew và nước ép trái cây cũng như vậy. Cảm giác khoan khoái và dễ chịu sẽ lập tức hiện ra khi chúng ta trải nghiệm coldbrew và nước ép trái cây.  Uống nước ép mang hương vị trái cây cùng những vitamin và khoáng chất tốt kết hợp với thể chất và vị ngọt ngào của coldbrew sẽ làm cho những mệt mỏi và lo âu sau một ngày vất vả sẽ biến mất hoàn toàn",
             "product_attr":[{"price": 200.000, "size": "M"}],
