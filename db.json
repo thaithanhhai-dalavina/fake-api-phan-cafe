@@ -3,27 +3,27 @@
 		{
 			"category_id": "L01",
 			"category_name": "Coffee",
-			"category_img": "" 
+			"category_icon": "fi" 
 		},
 		{
 			"category_id": "L02",
 			"category_name": "Trà",
-			"category_img": "" 
+			"category_img": "tb" 
 		},
 		{
 			"category_id": "L03",
 			"category_name": "Mojito",
-			"category_img": "" 
+			"category_img": "bs" 
 		},
 		{
 			"category_id": "L04",
 			"category_name": "Cold Brew",
-			"category_img": "" 
+			"category_img": "md" 
 		},
 		{
 			"category_id": "L05",
 			"category_name": "Hạt cafe",
-			"category_img": "" 
+			"category_img": "gi" 
 		}
 	],
     "products": [
