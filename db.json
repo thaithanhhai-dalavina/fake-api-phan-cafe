@@ -3,27 +3,27 @@
 		{
 			"category_id": "L01",
 			"category_name": "Coffee",
-			"category_img": "<FiCoffee className={`control-category__item-img${ selected === id ? 'control-category__item-img--selected' : 'control-category__item-img--noSelected'}`}/>" 
+			"category_img": "" 
 		},
 		{
 			"category_id": "L02",
 			"category_name": "Trà",
-			"category_img": "<TbCup className={`control-category__item-img${ selected === id ? 'control-category__item-img--selected' : 'control-category__item-img--noSelected' }`} />" 
+			"category_img": "" 
 		},
 		{
 			"category_id": "L03",
 			"category_name": "Mojito",
-			"category_img": "<BsCupStraw className={`control-category__item-img${ selected === id ? 'control-category__item-img--selected' : 'control-category__item-img--noSelected' }`} />" 
+			"category_img": "" 
 		},
 		{
 			"category_id": "L04",
 			"category_name": "Cold Brew",
-			"category_img": "<MdCoffeeMaker className={`control-category__item-img${ selected === id ? 'control-category__item-img--selected' : 'control-category__item-img--noSelected' }`} />" 
+			"category_img": "" 
 		},
 		{
 			"category_id": "L05",
 			"category_name": "Hạt cafe",
-			"category_img": "<GiCoffeeBeans className={`control-category__item-img${ selected === id ? 'control-category__item-img--selected' : 'control-category__item-img--noSelected' }`} />" 
+			"category_img": "" 
 		}
 	],
     "products": [
