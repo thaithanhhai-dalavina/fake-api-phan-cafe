@@ -8,17 +8,17 @@
 		{
 			"category_id": "L02",
 			"category_name": "Trà",
-			"category_img": "tb" 
+			"category_icon": "tb" 
 		},
 		{
 			"category_id": "L03",
 			"category_name": "Mojito",
-			"category_img": "bs" 
+			"category_icon": "bs" 
 		},
 		{
 			"category_id": "L04",
 			"category_name": "Cold Brew",
-			"category_img": "md" 
+			"category_icon": "md" 
 		},
 		{
 			"category_id": "L05",
