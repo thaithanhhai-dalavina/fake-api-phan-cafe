@@ -35,7 +35,7 @@
 		{
 			"category_id": 5,
 			"category_name": "Hạt cafe",
-			"category_img": "gi",
+			"category_icon": "gi",
             "created_at": 1657479620,
             "updated_at": 1657566020
 		}
