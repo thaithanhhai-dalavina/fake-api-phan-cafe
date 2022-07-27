@@ -1,4 +1,5 @@
 {
+    "categories": {
     "start": 1,
     "limit": 10,
     "rows_count": 10,
@@ -7,39 +8,44 @@
 			"category_id": 1,
 			"category_name": "Coffee",
 			"category_icon": "fi" ,
-            "created_at": "1657479620",
-            "updated_at": "1657566020"
+            "created_at": 1657479620,
+            "updated_at": 1657566020
 		},
 		{
 			"category_id": 2,
 			"category_name": "Trà",
 			"category_icon": "tb" ,
-            "created_at": "1657479620",
-            "updated_at": "1657566020"
+            "created_at": 1657479620,
+            "updated_at": 1657566020
 		},
 		{
 			"category_id": 3,
 			"category_name": "Mojito",
 			"category_icon": "bs",
-            "created_at": "1657479620",
-            "updated_at": "1657566020"
+            "created_at": 1657479620,
+            "updated_at": 1657566020
 		},
 		{
 			"category_id": 4,
 			"category_name": "Cold Brew",
 			"category_icon": "md",
-            "created_at": "1657479620",
-            "updated_at": "1657566020"
+            "created_at": 1657479620,
+            "updated_at": 1657566020
 		},
 		{
 			"category_id": 5,
 			"category_name": "Hạt cafe",
 			"category_img": "gi",
-            "created_at": "1657479620",
-            "updated_at": "1657566020"
+            "created_at": 1657479620,
+            "updated_at": 1657566020
 		}
-	],
-    "products": [
+	]
+    },
+    "products": {
+        "start": 1,
+        "limit": 10,
+        "rows_count": 10,
+        "products": [
         {
             "product_id": 1,
             "category_id": 1,
@@ -49,8 +55,8 @@
             "product_img": [
                 "https://i.imgur.com/FXIneUG.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 2,
@@ -63,8 +69,8 @@
                 "https://i.imgur.com/MwyZ0F3.jpg",
                 "https://i.imgur.com/pAoxv2m.jpg"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 3,
@@ -77,8 +83,8 @@
                 "https://i.imgur.com/WI69l1K.jpg",
                 "https://i.imgur.com/mjnkTaq.jpg"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 4,
@@ -90,8 +96,8 @@
                 "https://i.imgur.com/unWTdZ1.png",
                 "https://i.imgur.com/1klYPYU.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 5,
@@ -102,8 +108,8 @@
             "product_img":[
                 "https://i.imgur.com/AQGktDT.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 6,
@@ -115,8 +121,8 @@
                 "https://i.imgur.com/DwgLrAV.png",
                 "https://i.imgur.com/hdi64kU.jpg"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 7,
@@ -128,8 +134,8 @@
                 "https://i.imgur.com/uKMD86g.png",
                 "https://i.imgur.com/DkHFHdi.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 8,
@@ -140,8 +146,8 @@
             "product_img":[
                 "https://i.imgur.com/LPrAn4g.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 9,
@@ -152,8 +158,8 @@
             "product_img":[
                 "https://i.imgur.com/FXIneUG.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 10,
@@ -164,8 +170,8 @@
             "product_img":[
                 "https://i.imgur.com/zE5ksti.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 11,
@@ -176,8 +182,8 @@
             "product_img":[
                 "https://i.imgur.com/m9oCUhc.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 12,
@@ -188,8 +194,8 @@
             "product_img":[
                 "https://i.imgur.com/mZZ8a6w.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         },
         {
             "product_id": 13,
@@ -200,40 +206,45 @@
             "product_img":[
                 "https://i.imgur.com/H66nliD.png"
             ],
-            "created_at": "1657479650",
-            "updated_at": "1657479650"
-        }
-    ],
-    "favourite": [
-        {
-            "favourite_id": 1,
-            "product_id": 5,
-            "favourite_name": "Trà đào cam sả",
-            "favourite_desc": "",
-            "favourite_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-            "favourite_img": [
-                "https://i.imgur.com/AQGktDT.png"
-            ],
-            "favourite_quantity": 200,
-            "favourite_isTrash": false
-        },
-        {
-            "favourite_id": 2,
-            "product_id": 6,
-            "favourite_name": "Mojito việt quất",
-            "favourite_desc": "",
-            "favourite_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
-            "favourite_img":[
-                "https://i.imgur.com/DwgLrAV.png",
-                "https://i.imgur.com/hdi64kU.jpg"
-            ],
-            "favourite_quantity": 500,
-            "favourite_isTrash": false
-        }
-    ],
-    "homepage": [
-        {
-
+            "created_at": 1657479650,
+            "updated_at": 1657479650
         }
     ]
-}   
+    },
+    "favourite" : {
+        "favourite": [
+            {
+                "favourite_id": 1,
+                "product_id": 5,
+                "favourite_name": "Trà đào cam sả",
+                "favourite_desc": "",
+                "favourite_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+                "favourite_img": [
+                    "https://i.imgur.com/AQGktDT.png"
+                ],
+                "favourite_quantity": 200,
+                "favourite_isTrash": false
+            },
+            {
+                "favourite_id": 2,
+                "product_id": 6,
+                "favourite_name": "Mojito việt quất",
+                "favourite_desc": "",
+                "favourite_attr":[{"price": 20.000, "size": "M"}, {"price": 25.000, "size": "L"}],
+                "favourite_img":[
+                    "https://i.imgur.com/DwgLrAV.png",
+                    "https://i.imgur.com/hdi64kU.jpg"
+                ],
+                "favourite_quantity": 500,
+                "favourite_isTrash": false
+            }
+        ]
+    },
+    "homepage": {
+        "homepage": [
+            {
+
+            }
+        ]
+    }
+} 
