@@ -246,5 +246,114 @@
 
             }
         ]
+    },
+    "orders": {
+            "start": 1,
+            "limit": 10,
+            "rows_count": 3,
+            "orders": [ 
+            {
+                "order_id": 1,
+                "staff_id": 1,
+                "customer_id": 1,
+                "order_note": "không đá nhé, ít đường",
+                "order_total": 110,
+                "order_time": 1658820075,
+                "updated_at": 1658820075,
+                "detail": [
+                    {
+                        "product_id": 3,
+                        "quantity": 3,
+                        "size": "M",
+                        "price": 20
+                    },
+                    {
+                        "product_id": 2,
+                        "quantity": 2,
+                        "size": "L",
+                        "price": 25
+                    }
+            ],
+                "status": [ {
+                    "status_id": 1,
+                    "status_type": "waitting",
+                    "status_time": 1658820075
+                }]
+            
+        },
+        {
+                "order_id": 2,
+                "staff_id": 1,
+                "customer_id": 1,
+                "order_note": "đá nhiều nhé, nhiều đường",
+                "order_total": 60,
+                "order_time": 1658820075,
+                "updated_at": 1658820075,
+                "detail": [
+                    {
+                        "product_id": 3,
+                        "quantity": 3,
+                        "size": "M",
+                        "price": 20
+                    }
+            ],
+                "status": [ {
+                    "status_id": 3,
+                    "status_type": "waitting",
+                    "status_time": 1658820075
+                },
+                {
+                    "status_id": 4,
+                    "status_type": "confirmed",
+                    "status_time": 1658821606
+                }]
+        },
+        {
+            "order_id": 3,
+            "staff_id": 1,
+            "customer_id": 1,
+            "order_note": "cho nhiều đá, nhiều đường vào cafe",
+            "order_total": 170,
+            "order_time": 1658820075,
+            "updated_at": 1658820075,
+            "detail": [
+                {
+                    "product_id": 4,
+                    "quantity": 3,
+                    "size": "M",
+                    "price": 20
+                },
+                {
+                    "product_id": 2,
+                    "quantity": 2,
+                    "size": "L",
+                    "price": 25
+                },
+                {
+                    "product_id": 5,
+                    "quantity": 3,
+                    "size": "M",
+                    "price": 20
+                }
+        ],
+            "status": [ {
+                "status_id": 5,
+                "status_type": "waitting",
+                "status_time": 1658820075
+            },
+            {
+                "status_id": 6,
+                "status_type": "confirmed",
+                "status_time": 1658821606
+            },
+            {
+                "status_id": 7,
+                "status_type": "delivering",
+                "status_time": 1658821606
+            }]
+        }
+    ]
     }
+
+
 } 
