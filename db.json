@@ -298,12 +298,12 @@
                     }
             ],
                 "status": [ {
-                    "status_id": 3,
+                    "status_id": 2,
                     "status_type": "waitting",
                     "status_time": 1658820075
                 },
                 {
-                    "status_id": 4,
+                    "status_id": 3,
                     "status_type": "confirmed",
                     "status_time": 1658821606
                 }]
@@ -337,23 +337,21 @@
                 }
         ],
             "status": [ {
-                "status_id": 5,
+                "status_id": 4,
                 "status_type": "waitting",
                 "status_time": 1658820075
             },
             {
-                "status_id": 6,
+                "status_id": 5,
                 "status_type": "confirmed",
                 "status_time": 1658821606
             },
             {
-                "status_id": 7,
+                "status_id": 6,
                 "status_type": "delivering",
                 "status_time": 1658821606
             }]
         }
     ]
     }
-
-
 } 
